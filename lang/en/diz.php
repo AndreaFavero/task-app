@@ -3,7 +3,7 @@
 return [
     'task_list' => 'Task list',
     'tasks_available' => 'Available tasks',
-    'task_add' => 'Aggiungi task',
+    'task_add' => 'Add task',
 
     'admin' => 'Admin',
     'operator' => 'Operator',
